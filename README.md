@@ -3,7 +3,7 @@ _라고 쓰고 춘식이의 프로젝트를 위한 사리사욕이라고 읽는�
 
 ## 수업 준비 사항
 * [Git, npm, grunt 설치하기](#)
-* [Git으로 수업 자료 다운받기 / 코딩 방법 안내](#)
+* [Git으로 수업 자료 다운받기 / 코딩 방법 안내](https://github.com/thechunsik/ooo/wiki/Git%EC%9C%BC%EB%A1%9C-%EC%88%98%EC%97%85-%EC%9E%90%EB%A3%8C-%EB%8B%A4%EC%9A%B4%EB%B0%9B%EA%B8%B0---%EC%BD%94%EB%94%A9-%EB%B0%A9%EB%B2%95-%EC%95%88%EB%82%B4)
 
 ## 수업
 * [챕터 #1: ul, li, grid-system](https://github.com/thechunsik/ooo/wiki/%EC%B1%95%ED%84%B0-%231:-ul,-li,-grid-system)
