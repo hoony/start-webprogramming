@@ -9,7 +9,8 @@ _라고 쓰고 춘식이의 프로젝트를 위한 사리사욕이라고 읽는�
 * 수업을 시작하려면 아래 '수업 진행 방법 안내' 페이지를 참조하세요.
 
 ## 수업 준비 사항
-* [Git, npm, grunt 설치하기](#)
+* [이 수업에 쓰이는 도구들 살펴보기(Bootstrap, Git, 그리고 잊어도 되는 것들)](https://github.com/thechunsik/ooo/wiki/%EC%9D%B4-%EC%88%98%EC%97%85%EC%97%90-%EC%93%B0%EC%9D%B4%EB%8A%94-%EB%8F%84%EA%B5%AC%EB%93%A4-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0%28Bootstrap,-Git,-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%9E%8A%EC%96%B4%EB%8F%84-%EB%90%98%EB%8A%94-%EA%B2%83%EB%93%A4)
+* [도구 설치하기, 사용하기](https://github.com/thechunsik/ooo/wiki/%EB%8F%84%EA%B5%AC-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0,-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 * [Git으로 수업 자료 다운받기 / 수업 진행 방법 안내](https://github.com/thechunsik/ooo/wiki/Git%EC%9C%BC%EB%A1%9C-%EC%88%98%EC%97%85-%EC%9E%90%EB%A3%8C-%EB%8B%A4%EC%9A%B4%EB%B0%9B%EA%B8%B0---%EC%BD%94%EB%94%A9-%EB%B0%A9%EB%B2%95-%EC%95%88%EB%82%B4)
 
 ## 수업
